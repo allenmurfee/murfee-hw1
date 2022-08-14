@@ -4,6 +4,7 @@
   margin: 0;
 }
 
+/* Added element selectors wherever possible to clean up CSS */
 body {
   background-color: #d9dcd6;
 }
